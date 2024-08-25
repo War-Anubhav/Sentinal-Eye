@@ -1,0 +1,41 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Local configuration
+config.ini
+*.cfg
+
+# Data and model files (adjust as needed)
+*.h5
+*.pkl
+*.pth
+yolov8n.pt
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# CSV output files (if you don't want to track these)
+*.csv
+
+# Video and audio files (if used for testing)
+*.mp4
+*.wav
+
+# Add any other project-specific files or directories to ignore
